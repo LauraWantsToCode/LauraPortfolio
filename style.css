@@ -44,6 +44,11 @@ html {
     
 }
 
+/* remove the underline from a */
+.tab a {
+    text-decoration: none;
+}
+
 .tab {
     margin: 1%;
     height: 20px;
