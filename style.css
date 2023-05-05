@@ -2,7 +2,7 @@
     box-sizing: border-box; 
     margin: 0px;
     /* below is used to check if any items are out of place - once all moved into place, this gets commented out */
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 /* removing a vertical scrollbar */
