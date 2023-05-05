@@ -14,7 +14,9 @@ html {
     width: 0px;
 }
 
-
+body {
+    overflow-x: hidden;
+}
 
 .page1 {
     background-image: url(./Photo/page1-wide.jpeg);
@@ -164,7 +166,7 @@ justify-content: space-around;
     background-image: url(./Photo/bakground4.jpg);
     display: flex;
     flex-direction: column;
-    max-width: 86%;
+    max-width: 670px;
     min-height: 250px;
     border-radius: 15px;
     justify-content: center;
